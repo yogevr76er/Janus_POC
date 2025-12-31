@@ -1,0 +1,29 @@
+# Node modules - לא נעלה (גדול מדי)
+node_modules/
+
+# Database - לא נעלה (מכיל נתוני בדיקה)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables - סודות
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+dist/
+build/
