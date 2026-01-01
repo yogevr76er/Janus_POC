@@ -4,7 +4,7 @@ import Dashboard from './components/Dashboard'
 import AuthRequest from './components/AuthRequest'
 
 // API URL - שנה בהתאם ל-Render URL שלך
-const API_URL = 'https://janus-poc.onrender.com'
+const API_URL = 'https://janus-poc.onrender.com/api'
 
 function App() {
   const [userId, setUserId] = useState(null)
