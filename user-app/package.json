@@ -1,7 +1,7 @@
 {
   "name": "janus-user-app",
   "version": "1.0.0",
-  "description": "Janus User Authentication App - PWA",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite",
