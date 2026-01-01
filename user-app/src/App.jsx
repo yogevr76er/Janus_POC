@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Onboarding from './components/onboarding.jsx'
 import Dashboard from './components/dashboard.jsx'
-import AuthRequest from './components/authRequest.jsx'
+import AuthRequest from './components/authrequest.jsx'
 
 // API URL - שנה בהתאם ל-Render URL שלך
 const API_URL = 'https://janus-poc.onrender.com/api'
